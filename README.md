@@ -8,6 +8,20 @@ DroneTelemetry is a native Android telemetry dashboard built with Kotlin and Jet
 [![Hilt](https://img.shields.io/badge/DI-Hilt-blue?style=flat-square)](https://developer.android.com/training/dependency-injection/hilt-android)
 [![MAVLink](https://img.shields.io/badge/MAVLink-1.2.15-orange?style=flat-square)](https://github.com/divpundir/mavlink-kotlin)
 
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c45ceb83-cdcf-4633-b10e-6a907d9df4e3" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/12df656c-6c20-4500-8e44-57b31f378ce0" width="300"/>
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
 | Component | Library / Tool |
